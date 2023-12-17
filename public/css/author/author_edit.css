@@ -1,0 +1,8 @@
+.author_img{
+    width: 200px;
+    height: 200px;
+    border-radius: 999px;
+
+    background-size: cover;
+    background-position: center;
+}

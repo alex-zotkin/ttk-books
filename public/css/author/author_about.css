@@ -1,0 +1,18 @@
+.author{
+    width: 100%;
+    margin-bottom: 20px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+}
+
+.author_img{
+    width: 100px;
+    height: 100px;
+    border-radius: 999px;
+
+    background-size: cover;
+    background-position: center;
+}
